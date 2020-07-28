@@ -1,30 +1,37 @@
 [
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   },
   {
     "url" : "http:someurl",
+    "title": "card-title",
     "description" : "Some description"
   }
 ]
