@@ -8,7 +8,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./home.component.css']
 })
 export class HomeComponent implements OnInit {
-
+  
   constructor(private _httpservice: HttpService ) { }
    lstcomments: Comments[];
   ngOnInit() {
@@ -16,8 +16,12 @@ export class HomeComponent implements OnInit {
     .subscribe(
       data=>{
        this.lstcomments = data //data is the json in form of list which we are type casting to list of comments
+       this.lstcomments.sort(this.mySort);
       }
     )
   }
 
+  mySort(comment1 , comment2){
+    return  (comment1.date > comment2.date) ? 1 : -1;
+  }
 }

@@ -1,7 +1,6 @@
 .bg-custom{
    background-color: darkmagenta;
 }
-.carousel-item  {
-     display: flex !important;
-     flex-wrap: wrap
-   }
+.card{
+   min-width: 30%;
+}
