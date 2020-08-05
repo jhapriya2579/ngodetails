@@ -2,43 +2,50 @@
   {
     "url" : "https://jhapriya2579.github.io/ngodetails/img1.JPG",
     "title": "Title1",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc": "This day was recognised as the best day",
     "date" : "2020/12/04"
   },
   {
     "url" : "http:someurl",
     "title": "card-title",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/01"
   },
   {
     "url" : "http:someurl",
     "title": "card-title",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/02"
   },
   {
     "url" : "http:someurl",
     "title": "card-title",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/03"
   },
   {
     "url" : "http:someurl",
     "title": "card-title",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/05"
   },
   {
     "url" : "http:someurl",
     "title": "card-title1",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/06"
   },
   {
     "url" : "http:someurl",
     "title": "card-title",
-    "description" : "Some description",
+    "short_desc" : "Some description",
+    "long_desc" : "",
     "date" : "2020/12/07"
   }
 ]
