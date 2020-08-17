@@ -7,45 +7,95 @@
     "date" : "2020/12/04"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img2.JPG",
     "title": "card-title",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/01"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img3.JPG",
     "title": "card-title",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/02"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img4.JPG",
     "title": "card-title",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/03"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img5.JPG",
     "title": "card-title",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/05"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img6.JPG",
     "title": "card-title1",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/06"
   },
   {
-    "url" : "http:someurl",
+    "url" : "https://jhapriya2579.github.io/ngodetails/img7.JPG",
     "title": "card-title",
     "short_desc" : "Some description",
     "long_desc" : "",
     "date" : "2020/12/07"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img8.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/08"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img9.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/09"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img10.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/10"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img11.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/11"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img12.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/12"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img13.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/13"
+  },
+  {
+    "url" : "https://jhapriya2579.github.io/ngodetails/img14.JPG",
+    "title": "card-title",
+    "short_desc" : "Some description",
+    "long_desc" : "",
+    "date" : "2020/12/14"
   }
+
 ]
