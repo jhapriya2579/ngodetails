@@ -1,15 +1,25 @@
 <header>
-    <div class="navbar navbar-dark bg-custom box-shadow">
-      <div class="container d-flex justify-content-between">
-        <a routerLink="/" class="navbar-brand d-flex align-items-center">
-          <mat-icon>home</mat-icon>
-        </a>
-      </div>
+  <div class="navbar navbar-dark bg-custom box-shadow">
+    <div class="container d-flex justify-content-between">
+      <a routerLink="/" class="navbar-brand d-flex align-items-center">
+        <mat-icon>home</mat-icon>
+      </a>
     </div>
-  </header>
-  
-  <div class="main">
-      <button mat-fab color="primary" routerLink="/">
-    <mat-icon inline="true">navigate_before</mat-icon>
-    </button>
   </div>
+</header>
+<div class="main">
+  <button mat-fab  routerLink="/">
+    <mat-icon inline="true">navigate_before</mat-icon>
+  </button>
+</div>
+<div class="container">
+  <div class="card mb-3">
+    <img class="card-img-top" src="{{readMoreComment.url}}">
+
+    <div class="card-body">
+      <h5 class="card-title">{{readMoreComment.title}}</h5>
+      <p class="card-text">{{readMoreComment.long_desc}}</p>
+      <p class="card-text"><small class="text-muted">{{readMoreComment.date}}</small></p>
+    </div>
+  </div>
+</div>
